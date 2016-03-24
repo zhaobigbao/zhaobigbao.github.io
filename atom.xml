@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[赵大宝的博客]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-03-23T15:13:12.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[赵耀]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[第一篇文章]]></title>
+    <link href="http://yoursite.com/2016/03/23/first/"/>
+    <id>http://yoursite.com/2016/03/23/first/</id>
+    <published>2016-03-23T14:45:02.000Z</published>
+    <updated>2016-03-23T15:13:12.000Z</updated>
+    <content type="html"><![CDATA[<h3 id="地点：杭州-西溪北苑"><a href="#地点：杭州-西溪北苑" class="headerlink" title="地点：杭州-西溪北苑"></a>地点：杭州-西溪北苑</h3><h3 id="时间：2016年3月23日"><a href="#时间：2016年3月23日" class="headerlink" title="时间：2016年3月23日"></a>时间：2016年3月23日</h3><blockquote>
+<p>今天开始使用hexo搭建自己的博客，要学着把自己的生活一点点的记录下来了。</p>
+</blockquote>
+<p>杭州今天降温了，坐在我的小屋里有点不自觉的颤抖。我起身把窗户关上，窗帘拉上，又重新回到床上爬着玩手游。这是我前一个星期的真实写照，可以看得出我又有些懈怠了。</p>
+<p>大概8点的样子，我把手机上玩了两天的卡牌游戏删除了，打开了电脑看了一集《绝命毒师》，今天看到了第二集11集了。怀特一家又看到了希望，癌变组织减小到80%，足以让他进行肺叶切除手术。但是手术有着高风险以及需要高昂的费用，老白在没和妻子商量的前提下就当场决定要做。虽然风险很高，但这对于他来讲意味着是唯一的一条生路。这一集的结尾是老白疯了一样的去找吉米拿存货好去和一个大买家交易，但是手机这边传来了妻子即将临盆的消息。下一集他就要面临一个选择，继续争取自己的生存的希望还是去迎接自己孩子的新生。</p>
+<p>看完美剧，找出了许久未玩的口琴。前半个月我的嘴得了疱疹，这么久没有练习，今天一吹果然生疏了。想到了B站一位UP主的签名：喜欢就坚持下去吧。几次学口琴都没有坚持下来，这次是最久的一次，真希望能坚持到完全学会它。嗯，喜欢就坚持下去吧。</p>
+<p>要说的有很多，第一篇文章就不多说了，后面会慢慢写，日子还久着呢，喜欢就坚持下去吧。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h3 id="地点：杭州-西溪北苑"><a href="#地点：杭州-西溪北苑" class="headerlink" title="地点：杭州-西溪北苑"></a>地点：杭州-西溪北苑</h3><h3 id="时间：2016年3月23日"><a href="#时间：2016年]]>
+    </summary>
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
